@@ -1,0 +1,39 @@
+_repo: Bunny-Brown-and-His-Sister-Sue-at-Camp-Rest-A-While_17096
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Nosworthy, Florence England
+    birthdate: 1872
+    deathdate: 1936
+    gutenberg_agent_id: '7057'
+    url: http://www.gutenberg.org/2009/agents/7057
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hope, Laura Lee
+    gutenberg_agent_id: '367'
+    url: http://www.gutenberg.org/2009/agents/367
+    wikipedia: http://en.wikipedia.org/wiki/Laura_Lee_Hope
+description: Bunny! Bunny! Wake up! It's time!" "Wha - what's matter?" sleepily mumbled
+  little Bunny Brown, making his words all run together, like molasses candy that
+  has been out in the hot sun. "What's the matter, Sue?" Bunny asked, now that he
+  had his eyes open. He looked over the side of his small bed to see his sister standing
+  beside it. She had left her own little room and had run into her brother's. "What's
+  the matter, Sue?" Bunny asked again.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17096'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Brown, Bunny (Fictitious character) -- Juvenile fiction'
+title: Bunny Brown and His Sister Sue at Camp Rest-A-While
+url: http://www.gutenberg.org/ebooks/17096
